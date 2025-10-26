@@ -1,8 +1,3 @@
-/* Questão 1 – Classe e Objeto.
-* Classe - é um modelo para criar objetos, definindo atributos e comportamentos comuns.
-* Objeto - é uma instância de uma classe, representando uma entidade específica com seus próprios valores para os atributos definidos na classe.
-*/
-
 // Classe Aluno com os atributos nome, matrícula e curso.
 public class Aluno {
     String nome;
