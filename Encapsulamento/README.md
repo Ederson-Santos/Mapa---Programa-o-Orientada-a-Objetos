@@ -5,11 +5,21 @@ Encapsulamento protege os dados de uma classe, tornando seus atributos privados 
    ** setters- usado para definir ou atualizar o valor dos atributos
 
 Estrutura de pastas
-O espaço de trabalho contém duas pastas por padrão, onde:
+O espaço de trabalho contém pastas por padrão, onde:
 
-src: a pasta para manter as fontes
+- src: representa o diretório onde fica o código-fonte do seu programa, ou seja, os arquivos (.java) que você escreve.
 
-lib: a pasta para manter dependências
+- lib: armazenar dependências externas, ou seja, bibliotecas que seu projeto precisa para funcionar corretamente.
 
-Enquanto isso, os arquivos de saída compilados serão gerados na pasta bin por padrão.
-  
+- bin: gera arquivos de saída compilados (.class)
+- 
+Encapsulamento-java/
+├── src/             → Código-fonte (.java)
+│   ├── Main.java
+│   ├── Pessoa.java
+│   ├── Aluno.java
+│   └── Professor.java
+├── lib/             → Bibliotecas externas (.jar)
+├── bin/             → Arquivos compilados (.class)
+├── README.md        → Descrição do projeto
+└── .gitignore       → Arquivos a ignorar no Git
