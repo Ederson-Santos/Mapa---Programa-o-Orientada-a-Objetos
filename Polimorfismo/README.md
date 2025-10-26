@@ -4,11 +4,12 @@
 
 •	sobrescrita ou @Override - é do tipo runtime e ocorre quando uma subclasse fornece uma implementação específica de um método que já existe na sua superclasse.
 
+Estrutura de pastas, é composta de pastas por padrão, onde:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+src: representa o diretório onde fica o código-fonte do seu programa, ou seja, os arquivos (.java) que você escreve. Ex.: Aluno.java, Professor.java, Disciplina.java, Poli.java, Pessoa.java
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+lib: armazena dependências externas, ou seja, bibliotecas que seu projeto precisa para funcionar corretamente. Ex.: Bibliotecas externas (.jar)
 
-## Dependency Management
+bin: gera arquivos de saída compilados (.class) Ex.: Aluno.class, Professor.class, Disciplina.class, Poli.class, Pessoa.class
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+README.md → Apresenta a descrição do projeto
