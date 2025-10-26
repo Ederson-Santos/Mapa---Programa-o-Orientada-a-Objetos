@@ -14,6 +14,6 @@ Ex.:  Main.java, Pessoa.java, Aluno.java, Professor.java
 Ex.: Bibliotecas ex ternas (.jar)
 
 - bin: gera arquivos de saída compilados (.class)
-Ex.: Ex.:  Main.class, Pessoa.class, Aluno.class, Professor.class
+Ex.: Main.class, Pessoa.class, Aluno.class, Professor.class
 
-- README.md → Descrição do projeto
+- README.md → Apresenta a descrição do projeto
