@@ -15,16 +15,14 @@ O espaço de trabalho contém pastas por padrão, onde:
   
 Encapsulamento-java/
 ├── src/ → Código-fonte (.java)
+    ├── Main.java
+    ├── Pessoa.java
+    ├── Aluno.java
+    └── Professor.java
+├── lib/ → Bibliotecas externas (.jar)
 
-│   ├── Main.java
+├── bin/ → Arquivos compilados (.class)
 
-│   ├── Pessoa.java
+├── README.md → Descrição do projeto
 
-│   ├── Aluno.java
-
-│   └── Professor.java
-
-├── lib/             → Bibliotecas externas (.jar)
-├── bin/             → Arquivos compilados (.class)
-├── README.md        → Descrição do projeto
-└── .gitignore       → Arquivos a ignorar no Git
+└── .gitignore → Arquivos a ignorar no Git
