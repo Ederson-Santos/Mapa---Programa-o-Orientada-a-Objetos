@@ -2,7 +2,7 @@
 
 •	sobrecarga (Overload) - é do tipo compile time, ocorre quando existem vários métodos com o mesmo nome, mas com diferentes tipos ou quantidades de parâmetros dentro da mesma classe.
 
-•	sobrescrita ou @Override - é do tipo runtime e ocorre quando uma subclasse fornece uma implementação específica de um método que já existe na sua superclasse.
+•	sobrescrita (@Override) - é do tipo runtime e ocorre quando uma subclasse fornece uma implementação específica de um método que já existe na sua superclasse.
 
 Estrutura de pastas, é composta de pastas por padrão, onde:
 
