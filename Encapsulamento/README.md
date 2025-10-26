@@ -13,13 +13,13 @@ O espaço de trabalho contém pastas por padrão, onde:
 
 - bin: gera arquivos de saída compilados (.class)
   
-Encapsulamento-java/
-├── src/ → Código-fonte (.java)
+Encapsulamento
 
-    ├── Main.java
-    ├── Pessoa.java
-    ├── Aluno.java
-    └── Professor.java
+├── src/ → Código-fonte (.java)
+      ├── Main.java
+      ├── Pessoa.java
+      ├── Aluno.java
+      └── Professor.java
 ├── lib/ → Bibliotecas externas (.jar)
 
 ├── bin/ → Arquivos compilados (.class)
