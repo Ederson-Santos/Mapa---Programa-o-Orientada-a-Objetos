@@ -12,13 +12,18 @@ O espaço de trabalho contém pastas por padrão, onde:
 - lib: armazenar dependências externas, ou seja, bibliotecas que seu projeto precisa para funcionar corretamente.
 
 - bin: gera arquivos de saída compilados (.class)
-- 
+  
 Encapsulamento-java/
-├── src/             → Código-fonte (.java)
+├── src/ → Código-fonte (.java)
+
 │   ├── Main.java
+
 │   ├── Pessoa.java
+
 │   ├── Aluno.java
+
 │   └── Professor.java
+
 ├── lib/             → Bibliotecas externas (.jar)
 ├── bin/             → Arquivos compilados (.class)
 ├── README.md        → Descrição do projeto
