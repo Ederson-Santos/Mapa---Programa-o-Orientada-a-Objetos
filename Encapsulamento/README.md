@@ -14,4 +14,4 @@ Enquanto isso, os arquivos de saída compilados serão gerados na binpasta por p
 
 Gerenciamento de Dependências
 A JAVA PROJECTS visualização permite que você gerencie suas dependências. where:
-https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+https://github.com/microsoft/vscode-java-dependency#manage-dependencies.
