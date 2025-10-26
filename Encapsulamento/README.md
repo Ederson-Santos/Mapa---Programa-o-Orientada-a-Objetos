@@ -15,6 +15,7 @@ O espaço de trabalho contém pastas por padrão, onde:
   
 Encapsulamento-java/
 ├── src/ → Código-fonte (.java)
+
     ├── Main.java
     ├── Pessoa.java
     ├── Aluno.java
