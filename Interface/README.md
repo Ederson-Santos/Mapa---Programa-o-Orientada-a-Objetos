@@ -1,4 +1,4 @@
-interface em Java define um contrato: ela declara métodos que uma classe deve implementar, mas não fornece a implementação desses métodos.
+Interfaces funcionam como contratos que permitem que diferentes grupos de desenvolvedores interajam sem conhecer os detalhes internos do código uns dos outros. É uma referência, um modelo que pode conter um conjunto de métodos, assinaturas e regras que devem ser seguidas  como se fosse um contrato que específica as formas as classes interagem. De modo geral, uma interface atua como um contrato que estabelece as normas a serem seguidas e observadas para o desenvolvimento de projetos (DEV.JAVA, 2024, tradução automática).
 
 Estrutura de pastas, é composta de pastas por padrão, onde:
 
