@@ -8,22 +8,12 @@ Estrutura de pastas
 O espaço de trabalho contém pastas por padrão, onde:
 
 - src: representa o diretório onde fica o código-fonte do seu programa, ou seja, os arquivos (.java) que você escreve.
+Ex.:  Main.java, Pessoa.java, Aluno.java, Professor.java
 
 - lib: armazenar dependências externas, ou seja, bibliotecas que seu projeto precisa para funcionar corretamente.
+Ex.: Bibliotecas ex ternas (.jar)
 
 - bin: gera arquivos de saída compilados (.class)
-  
-Encapsulamento
+Ex.: Ex.:  Main.class, Pessoa.class, Aluno.class, Professor.class
 
-├── src/ → Código-fonte (.java)
-      ├── Main.java
-      ├── Pessoa.java
-      ├── Aluno.java
-      └── Professor.java
-├── lib/ → Bibliotecas externas (.jar)
-
-├── bin/ → Arquivos compilados (.class)
-
-├── README.md → Descrição do projeto
-
-└── .gitignore → Arquivos a ignorar no Git
+- README.md → Descrição do projeto
