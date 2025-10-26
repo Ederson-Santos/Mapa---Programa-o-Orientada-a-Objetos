@@ -13,4 +13,4 @@ Enquanto isso, os arquivos de saída compilados serão gerados na bin pasta por 
 Se você quiser personalizar a estrutura de pastas, abra .vscode/settings.jsone atualize as configurações relacionadas lá.
 
 Gerenciamento de Dependências
-A JAVA PROJECTS visualização permite que você gerencie suas dependências. Mais detalhes podem ser encontrados aqui .
+A JAVA PROJECTS visualização permite que você gerencie suas dependências.
