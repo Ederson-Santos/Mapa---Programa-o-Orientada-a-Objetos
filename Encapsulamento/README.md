@@ -11,5 +11,5 @@ src: a pasta para manter as fontes
 
 lib: a pasta para manter dependências
 
-Enquanto isso, os arquivos de saída compilados serão gerados na bin pasta por padrão.
+Enquanto isso, os arquivos de saída compilados serão gerados na pasta bin por padrão.
   
