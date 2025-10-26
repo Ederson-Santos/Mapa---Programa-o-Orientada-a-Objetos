@@ -3,21 +3,14 @@
 * Objeto - é uma instância de uma classe, representando uma entidade específica com seus próprios valores para os atributos definidos na classe.
 */
 
-## Getting Started
+Estrutura de pastas
+O espaço de trabalho contém duas pastas por padrão, onde:
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+src: a pasta para manter as fontes
+lib: a pasta para manter dependências
+Enquanto isso, os arquivos de saída compilados serão gerados na binpasta por padrão.
 
-## Folder Structure
+Se você quiser personalizar a estrutura de pastas, abra .vscode/settings.jsone atualize as configurações relacionadas lá.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Gerenciamento de Dependências
+A JAVA PROJECTSvisualização permite que você gerencie suas dependências. Mais detalhes podem ser encontrados aqui .
