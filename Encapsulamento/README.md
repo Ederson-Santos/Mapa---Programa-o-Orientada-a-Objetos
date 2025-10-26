@@ -4,8 +4,7 @@ Encapsulamento protege os dados de uma classe, tornando seus atributos privados 
     
    ** setters- usado para definir ou atualizar o valor dos atributos
 
-Estrutura de pastas
-O espaço de trabalho contém pastas por padrão, onde:
+Estrutura de pastas, é composto de pastas por padrão, onde:
 
 - src: representa o diretório onde fica o código-fonte do seu programa, ou seja, os arquivos (.java) que você escreve.
 Ex.:  Main.java, Pessoa.java, Aluno.java, Professor.java
