@@ -1,3 +1,7 @@
+Encapsulamento protege os dados de uma classe, tornando seus atributos privados e acessando-os apenas por métodos públicos chamados getters e setters.
+    ** getters - usado para acessar o valor dos atributos
+    ** setters- usado para definir ou atualizar o valor dos atributos
+    
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
